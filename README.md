@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6 {
 </div>
 
 <!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" >
   <img class="w3-image" src="home2.jpg"  alt="ร้านส้มตำกระรอก" width="1600" height="800">
   <div class="w3-display-middle w3-padding-large w3-black">
     <h1 class="w3-xxlarge w3-animate-left w3-card-4">"ร้านส้มตำกระรอก" </h1>
@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6 {
     <div class="w3-col m6 w3-padding-large w3-card-4 ">
       <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-hover-red ">ร้านส้มตำกระรอก ถนนทุ่งรี</h1><hr>
       <h5 class="w3-center">ร้านส้มตำ ถูก และแซ่บใกล้ ม.อ.</h5>
-      <p class="w3-large">รร้านส้มตำพี่กระรอก แถวซอยทุ่งรี
+      <p class="w3-large">ร้านส้มตำพี่กระรอก แถวซอยทุ่งรี
 เป็นร้านรถเข็น มีโต๊ะให้นั้งประมาณ6โต๊ะ
 เลือกสั่ง เมนูได้เลย
 รสชาติ อร่อย ตามฉบับอาหารอีสาน
