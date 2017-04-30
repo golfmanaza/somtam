@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6 {
 <!-- Navbar (sit on top) -->
 <div class="w3-top ">
   <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:3px;">
-    <h1><a href="https://golfmanaza.github.io/10yummyfoodinHDY/ " target="_blank" class="w3-card-4 w3-border w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a></h1>
+    <h1><a href="https://golfmanaza.github.io/10yummyfoodinHDY/" target="_blank" class="w3-card-4 w3-border w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a></h1>
   
     <div class="w3-right">
       <a href="#about" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-orange">ร้าน</a>
@@ -25,9 +25,9 @@ h1,h2,h3,h4,h5,h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="S__2809858.jpg"  alt="ร้านส้มตำกระรอก" width="1600" height="800">
+  <img class="w3-image" src="home2.jpg"  alt="ร้านส้มตำกระรอก" width="1600" height="800">
   <div class="w3-display-middle w3-padding-large w3-black">
-    <h1 class="w3-xxxlarge	w3-animate-left w3-card-4">"ร้านส้มตำกระรอก" </h1>
+    <h1 class="w3-xxlarge w3-animate-left w3-card-4">"ร้านส้มตำกระรอก" </h1>
   </div>
 </header>
 
