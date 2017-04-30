@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6 {
 <!-- Navbar (sit on top) -->
 <div class="w3-top ">
   <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:3px;">
-    <a href="#home" class="w3-bar-item w3-button w3-xlarge w3-border w3-card-4 w3-hover-red">10ร้านห้ามพลาดในหาดใหญ่</a>
+    <h1><a href="https://golfmanaza.github.io/10yummyfoodinHDY/ " target="_blank" class="w3-card-4 w3-border w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a></h1>
   
     <div class="w3-right">
       <a href="#about" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-orange">ร้าน</a>
